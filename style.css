@@ -1,0 +1,28 @@
+.logo {
+
+}
+
+.menu{
+    list-style: nome;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.menu a{
+    text-decoration:none;
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 45px;}
+
+.menu a:hover{
+    color:white;
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background-color:aqua;
+}
