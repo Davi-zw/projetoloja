@@ -1,1 +1,35 @@
-# projetoloja
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Bem vindo ao site de venda da Rosimeri 
+      </html>
+<Body>
+   <div>
+     <img class="logo" src="Davi.com">
+     <h1> Programação</h1>
+   </div>
+
+     <ul class="menu">
+         <li><a href="index.html">Página inicial</a></li>
+         <li><a href="loja.html">Loja</a></li>
+         <li><a href="contato.html"></a></li>
+        
+
+         
+     </ul>
+</Body>
+    </em> </h1>
+
+    <h1>aqui fazemos tecidos conforme a sua especialidade e também temos peças prontas</h1>
+    <img src="sg-11134201-7rff2-m33q0udag65u87.jfif" alt="" width="300px">
+    <img src="SI_427_ORCL_roupas-nao-vendidas_site.webp" alt="" width="300px">
+    <h1>aqui vc podera ver algumas das peças</h1>
+</body> 
+</html>
+  
